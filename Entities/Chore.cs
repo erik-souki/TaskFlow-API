@@ -1,4 +1,4 @@
-﻿namespace TaskFlow_API
+﻿namespace TaskFlow_API.Entities
 {
     public class Chore
     {
@@ -6,7 +6,6 @@
         public string Name { get; set; }
         public string Description { get; set; }
         public string Type { get; set; }
-
 
     }
 }
