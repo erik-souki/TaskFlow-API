@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using Microsoft.EntityFrameworkCore;
 using TaskFlow_API.Data;
+using TaskFlow_API.Entities;
 
 namespace TaskFlow_API.Controllers
 {
